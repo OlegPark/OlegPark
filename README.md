@@ -17,3 +17,10 @@
 [![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://github.com/OlegPark)
 
 </div>
+
+<div align="center">
+
+[![khYaroslav github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPark&theme=highcontrast&langs_count=20&layout=compact)](https://github.com/OlegPark)
+
+</div>
+
