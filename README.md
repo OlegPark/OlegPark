@@ -10,3 +10,10 @@
 
 
 </div>
+
+<div align="center">
+  
+[![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows)](https://github.com/OlegPark)
+[![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://github.com/OlegPark)
+
+</div>
