@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
+[![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://github.com/OlegPark)
 [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/OlegPark)
 
 
