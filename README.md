@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Oleg</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: oleg.pak1996@gmail.com
 
 <div align="center">
 
