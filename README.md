@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Oleg</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-##- 📫 How to reach me: 
+<h1 align="center">📫 How to reach me: </h1>
 
 <div align="center">
   
