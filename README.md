@@ -3,9 +3,11 @@
 
 <div align="center">
 - 📫 How to reach me: 
+</div>
+
+<div align="center">
   [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/OlegPark)
   [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Oleg_Park)
-
 </div>
 
 <div align="center">
