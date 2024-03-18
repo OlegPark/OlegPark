@@ -29,11 +29,7 @@
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPark&theme=highcontrast&langs_count=20&layout=compact)](https://github.com/OlegPark)
+[![GitHabStatus](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPark&theme=highcontrast&langs_count=20&layout=compact)](https://github.com/OlegPark)
 
 </div>
-
-
-    <a href="https://t.me/jlnrrg">
-        <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white">
 
