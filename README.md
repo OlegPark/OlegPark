@@ -12,6 +12,8 @@
 
 </div>
 
+<h1 align="center">🔭 Tech Stack</h1>
+
 <div align="center">
 
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://github.com/OlegPark)
