@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Oleg</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h1 align="center">- 📫 How to reach me: </h1>
-
+<h2 align="center">- 📫 How to reach me: </h2>
 
 <div align="center">
   
-[![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/OlegPark)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/oleg.pak1996@gmail.com
+)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Oleg_Park)
+
 
 </div>
 
