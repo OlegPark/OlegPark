@@ -27,9 +27,3 @@
 
 </div>
 
-<div align="center">
-
-[![GitHabStatus](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPark&theme=highcontrast&langs_count=20&layout=compact)](https://github.com/OlegPark)
-
-</div>
-
