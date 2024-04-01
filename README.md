@@ -22,8 +22,12 @@
 
 <div align="center">
 
-[![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://github.com/OlegPark)
+[![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
+[![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![AndroidStudio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://github.com/OlegPark)
 [![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows)](https://github.com/OlegPark)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/OlegPark)
 
 </div>
 
