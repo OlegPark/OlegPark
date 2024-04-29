@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">🔭 Tech Stack</h1>
+<h1 align="center">👨‍💻 Tech Stack</h1>
 
 <div align="center">
 
