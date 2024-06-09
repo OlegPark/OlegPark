@@ -14,7 +14,6 @@
 [![Flutter](https://img.shields.io/badge/flutter-44D0FA?logo=flutter&style=for-the-badge&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white)](https://dart.dev/)
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-white?logo=figma&style=for-the-badge)](https://www.figma.com/)
 [![Firebase](https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
 
