@@ -1,4 +1,4 @@
-<h1 align="center">📫 📮 How to reach me: </h1>
+<h1 align="center">📫 How to reach me: </h1>
 
 <div align="center">
   
