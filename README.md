@@ -33,7 +33,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h1 align="center"> ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
