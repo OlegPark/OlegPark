@@ -12,10 +12,13 @@
 <div align="center">
 
 [![Flutter](https://img.shields.io/badge/flutter-44D0FA?logo=flutter&style=for-the-badge&logoColor=white)](https://flutter.dev/)
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 [![Dart](https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white)](https://dart.dev/)
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/Figma-white?logo=figma&style=for-the-badge)](https://www.figma.com/)
 [![Firebase](https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -36,8 +39,8 @@
 <h1 align="center"> :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+ 
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
