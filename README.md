@@ -25,6 +25,7 @@
 <div align="center">
 
 [![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
+[![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
 [![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![AndroidStudio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://github.com/OlegPark)
 [![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows)](https://github.com/OlegPark)
